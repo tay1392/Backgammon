@@ -1,0 +1,10 @@
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\bin\Debug\Backgammon_Game.exe.config
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\bin\Debug\Backgammon_Game.exe
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\bin\Debug\Backgammon_Game.pdb
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\obj\Debug\Backgammon_Game.MainGameForm.resources
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\obj\Debug\Backgammon_Game.Properties.Resources.resources
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\obj\Debug\Backgammon_Game.csproj.GenerateResource.Cache
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\obj\Debug\Backgammon_Game.exe
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\obj\Debug\Backgammon_Game.pdb
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\obj\Debug\Backgammon_Game.csprojResolveAssemblyReference.cache
+C:\Users\Tay\Documents\OIT\SeniorProject\MyProject\Backgammon_Game\Backgammon_Game\obj\Debug\Backgammon_Game.MainMenuForm.resources
